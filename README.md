@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a senior computer science student at METU, passionate about game development and computer graphics. I enjoy working on various aspects of game development, from gameplay and animation programming to level design, modeling, texturing, lighting, and more. Beyond game development and computer graphics, I have experience in computer architecture, operating systems, network protocols, and database management.
+I am a software engineer with a strong focus on computer graphics and a background in game development. My experience includes rendering and animation programming, as well as working on both technical and artistic aspects of game development, such as level design and lighting. Additionally, I have a solid foundation in computer architecture, operating systems, and network protocols.
 ## Projects
 
 ### Computer Graphics
